@@ -2,6 +2,7 @@
 This visualization was performed as a part of the asssignment.
 Data is taken from [Citibike data](https://citibikenyc.com/system-data).
 The dataset for the visualization consists from June 2022- May 2023.
+## [Tableau Public link](https://public.tableau.com/app/profile/rimple.dabas/viz/CitibikeAnalysis_16879806385670/CitibikeAnalysis?publish=yes)
 ## Visualizations
 The first dashborad
 -  provides analysis about Trips taken over the last one year. 
